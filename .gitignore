@@ -1,0 +1,14 @@
+#ignore .DS_Store files
+**/.DS_Store
+
+#ignore Thumbs.db files
+**/Thumbs.db
+
+#ignore tmp folders
+*tmp/
+
+#ignore _old files
+*_old
+
+#ignore _backup files
+*_backup
